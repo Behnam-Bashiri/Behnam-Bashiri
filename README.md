@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🫡 FullStack Web Dev.<br>🤓 Master IT Student at Shiraz(Sutec)<br>🇮🇷 IR
+🫡 FullStack Web Dev.<br>🤓 Master IT Student at Shiraz(Sutech)<br>🇮🇷 IR
 
 
 ## 🌐 Socials:
